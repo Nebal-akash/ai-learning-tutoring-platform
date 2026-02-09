@@ -68,6 +68,7 @@ The platform acts like a **smart study companion**, continuously learning from t
 - LLMs for tutoring and explanations
 - Recommendation algorithms
 - Performance analysis models
+- Model used:  Mistral ,OpenAI,Grok
 
 **Database**
 - Firebase / PostgreSQL / MongoDB
