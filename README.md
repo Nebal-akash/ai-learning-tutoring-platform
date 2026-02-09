@@ -58,7 +58,7 @@ The platform acts like a **smart study companion**, continuously learning from t
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React / HTML / CSS / JavaScript
+- Flutter
 
 **Backend**
 - Python (FastAPI / Flask)
